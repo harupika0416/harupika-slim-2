@@ -16,6 +16,8 @@ apis = [
     r"https://invidious.nerdvpn.de/",
     r"https://inv.nadeko.net/",
     r"https://invidious.jing.rocks/",
+r"https://cal1.iv.ggtyler.dev/",
+r"https://pol1.iv.ggtyler.dev/",
 r"https://inv.vern.cc/",
 r"https://inv.zzls.xyz/",
 r"https://invi.susurrando.com/",
