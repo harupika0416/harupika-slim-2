@@ -13,6 +13,7 @@ max_api_wait_time = 8
 max_time = 12
 apis = [
     r"https://invidious.jing.rocks/",
+    r"https://invidious.f5.si/",
     r"https://invidious.nerdvpn.de/",
     r"https://inv.nadeko.net/",
     r"https://invidious.jing.rocks/",
